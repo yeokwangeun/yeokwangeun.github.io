@@ -156,8 +156,7 @@ footer:
 
 # Sidebar
 sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
+  nav: "docs"
 
 # Reading Files
 include:
