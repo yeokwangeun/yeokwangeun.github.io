@@ -4,25 +4,13 @@ main:
 
 # sidebar links
 docs:
-  - title: "Parent Page A"
+  - title: Getting Started
     children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Parent Page B"
-    children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
-      - title: "Child Page B3"
-        url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
