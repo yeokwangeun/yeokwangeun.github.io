@@ -11,6 +11,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true---
+      related: true
+---
 
 this is a test
