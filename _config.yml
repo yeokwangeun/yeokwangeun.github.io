@@ -154,6 +154,10 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+# Sidebar
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
 
 # Reading Files
 include:
