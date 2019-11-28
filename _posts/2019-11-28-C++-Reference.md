@@ -1,5 +1,3 @@
-## REFERENCE
-
 참조. 한 마디로 별명이다.
 
 (출처: <https://modoocode.com/141>을 보고 공부한 내용입니다)
